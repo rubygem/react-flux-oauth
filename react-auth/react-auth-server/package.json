@@ -1,0 +1,19 @@
+{
+  "name": "react-auth-server",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubygem/react-flux-oauth.git"
+  },
+  "author": "@ruby_gem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubygem/react-flux-oauth/issues"
+  },
+  "homepage": "https://github.com/rubygem/react-flux-oauth#readme"
+}
